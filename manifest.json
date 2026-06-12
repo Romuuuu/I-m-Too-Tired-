@@ -6,5 +6,5 @@
   "UniqueID": "Modder.SoTired",
   "EntryDll": "SoTired.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": [ "GitHub:Romuuuu/I-m-Too-Tired-" ]
 }
