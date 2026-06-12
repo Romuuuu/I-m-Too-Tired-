@@ -1,0 +1,10 @@
+{
+  "Name": "SO TIRED!",
+  "Author": "Modder",
+  "Version": "1.0.0",
+  "Description": "Makes the game harder by increasing stamina consumption, adding sleep penalties, and dynamic stamina scaling.",
+  "UniqueID": "Modder.SoTired",
+  "EntryDll": "SoTired.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
