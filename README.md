@@ -1,6 +1,6 @@
 # SO TIRED! - Stardew Valley Mod
 
-**SO TIRED!** is a Stardew Valley mod (SMAPI) that makes the game's stamina management more challenging, immersive, and dynamic. It punishes players for overworking and staying up late, while rewarding them for resting early and leveling up their skills!
+**SO TIRED!** is a Stardew Valley mod that makes the game stamina management more challenging, immersive, and dynamic. It punishes players for overworking and staying up late, while rewarding them for resting early!
 
 ## 🌟 Features
 
@@ -36,4 +36,4 @@ Pushing yourself to the absolute limit?
 Upon running the mod for the first time, a `config.json` file will be generated inside the mod folder. You can tweak almost every aspect of the mod, including multipliers, buffs, and time thresholds!
 
 ---
-*Created for Stardew Valley 1.6+*
+This mod support stardewvalley 1.16+
